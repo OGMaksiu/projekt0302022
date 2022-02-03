@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="hint">Wpisz tutaj dowolny kraj...</string>
+    <string name="submit">Podsumuj</string>
+    <string name="entered_text">Wpisany tekst:</string>
+
+    <string-array name="countries_array">
+        <item>Indie</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Włochy</item>
+        <item>Andora</item>
+        <item>Angola</item>
+        <item>Anguila</item>
+        <item>Antarktyda</item>
+        <item>Wietnam</item>
+        <item>Japonia</item>
+        <item>Wielka Brytania</item>
+        <item>Iran</item>
+        <item>Turcja</item>
+        <item>Hiszpania</item>
+        <item>Irak</item>
+        <item>Polska</item>
+        <item>Ukraina</item>
+        <item>Ghana</item>
+        <item>Chile</item>
+        <item>Haiti</item>
+        <item>Węgry</item>
+        <item>Izreal</item>
+        <item>Finlandia</item>
+        <item>Estonia</item>
+        <item>Rosja</item>
+        <item>Stany Zjednoczone</item>
+        <item>Wyspy Dziewicze</item>
+        <item>Hongkong</item>
+        <item>Serbia</item>
+        <item>Szwajcaria</item>
+        <item>Nigeria</item>
+        <item></item>
+    </string-array>
+</resources>
